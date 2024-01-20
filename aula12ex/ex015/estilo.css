@@ -19,3 +19,9 @@ footer {
   text-align: center;
   font-style: italic;
 }
+
+img {
+  width: 400px;
+  height: 400px;
+  margin: auto;
+}
